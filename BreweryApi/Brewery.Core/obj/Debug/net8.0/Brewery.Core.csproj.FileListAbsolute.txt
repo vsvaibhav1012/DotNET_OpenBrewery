@@ -1,0 +1,11 @@
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\bin\Debug\net8.0\Brewery.Core.deps.json
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\bin\Debug\net8.0\Brewery.Core.dll
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\bin\Debug\net8.0\Brewery.Core.pdb
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\obj\Debug\net8.0\Brewery.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\obj\Debug\net8.0\Brewery.Core.AssemblyInfoInputs.cache
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\obj\Debug\net8.0\Brewery.Core.AssemblyInfo.cs
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\obj\Debug\net8.0\Brewery.Core.csproj.CoreCompileInputs.cache
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\obj\Debug\net8.0\Brewery.Core.dll
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\obj\Debug\net8.0\refint\Brewery.Core.dll
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\obj\Debug\net8.0\Brewery.Core.pdb
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Core\obj\Debug\net8.0\ref\Brewery.Core.dll

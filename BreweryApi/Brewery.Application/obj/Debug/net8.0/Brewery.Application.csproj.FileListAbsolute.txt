@@ -1,0 +1,17 @@
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\bin\Debug\net8.0\Brewery.Application.deps.json
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\bin\Debug\net8.0\Brewery.Application.dll
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\bin\Debug\net8.0\Brewery.Application.pdb
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\bin\Debug\net8.0\Brewery.Core.dll
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\bin\Debug\net8.0\Brewery.Persistence.dll
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\bin\Debug\net8.0\Brewery.Core.pdb
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\bin\Debug\net8.0\Brewery.Persistence.pdb
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\Brewery.Application.csproj.AssemblyReference.cache
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\Brewery.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\Brewery.Application.AssemblyInfoInputs.cache
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\Brewery.Application.AssemblyInfo.cs
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\Brewery.Application.csproj.CoreCompileInputs.cache
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\Brewery..55ADE620.Up2Date
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\Brewery.Application.dll
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\refint\Brewery.Application.dll
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\Brewery.Application.pdb
+D:\Development\Vaibhav_DOTNET\BreweryApi\Brewery.Application\obj\Debug\net8.0\ref\Brewery.Application.dll
